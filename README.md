@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Prokhor
 - 🎓 Ural Federal University graduate
-- 👨🏻‍💻 I write code and create applications in C/C++, JavaScript (TypeScript rather), PHP, Python, Swift and Assembly (kinda)
+- 👨🏻‍💻 The tech I use: Docker, TypeScript, PHP, C/C++, Python and Assembly (kinda)
