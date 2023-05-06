@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Prokhor
 - 🎓 Ural Federal University graduate
-- 👨🏻‍💻 The tech I use: Docker, TypeScript, PHP, C/C++, Python and Assembly (kinda)
+- 👨🏻‍💻 The tech I use: Neovim, Docker, TypeScript, Svelte.js , PHP, C/C++, Python and Assembly (kinda)
